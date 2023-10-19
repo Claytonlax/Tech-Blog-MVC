@@ -26,3 +26,6 @@ Claytonlax@yahoo.com  'Please email me here with any further questions.'
 
 MIT
 
+## Deployment
+
+https://claytonlax.github.io/Tech-Blog-MVC/
